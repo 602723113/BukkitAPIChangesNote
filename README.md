@@ -16,3 +16,4 @@
 ## 选择版本:
 - [1.13 -> 1.13.1](https://github.com/602723113/BukkitAPIChangesNote/blob/master/versions/1.13.md)
 - [1.13.1 -> 1.13.2](https://github.com/602723113/BukkitAPIChangesNote/blob/master/versions/1.13.1.md)
+- [1.13.2 -> 1.14-pre5](https://github.com/602723113/BukkitAPIChangesNote/blob/master/versions/1.13.2.md)
